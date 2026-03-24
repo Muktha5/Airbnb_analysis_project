@@ -66,7 +66,6 @@ Project Structure
 
 airbnb-analysis-project/
 │
-├── data/
 ├── sql/
 │   └── queries.sql
 ├── dashboard/
